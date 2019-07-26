@@ -1,0 +1,5 @@
+com\jt\manage\mapper\App.class
+com\jt\manage\mapper\ItemCatMapper.class
+com\jt\manage\mapper\ItemMapper.class
+com\jt\manage\mapper\base\mapper\SysMapper.class
+com\jt\manage\mapper\base\mapper\SysMapperProvider.class
